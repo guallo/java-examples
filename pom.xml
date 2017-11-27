@@ -36,16 +36,10 @@
   </build>
   
   <repositories>
-  	<repository>
-        <id>repo-repo1</id>
-        <name>Repo Repo1</name>
-        <url>http://repo1.maven.org/maven2/</url>
-    </repository>
-    
     <repository>
-        <id>repo-central</id>
-        <name>Repo Central</name>
-        <url>http://central.maven.org/maven2/</url>
+        <id>central-repository</id>
+        <name>Central Repository</name>
+        <url>https://repo.maven.apache.org/maven2/</url>
     </repository>
   </repositories>
   
